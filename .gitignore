@@ -1,0 +1,17 @@
+# VS code config
+.vscode/
+*.code-workspace
+
+# Cmake files
+# Makefile
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+.cmake/
+build/
+build/.cmake/
+.cache/
+compile_commands.json
+
+# Tools
+sys_signer
